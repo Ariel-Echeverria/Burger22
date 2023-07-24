@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1682948455 source:c:\users\ariti\documents\utn\laboratorio de computacion 2\poo\fecha\burger22\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+
+1682948405 c:\users\ariti\documents\utn\laboratorio de computacion 2\poo\fecha\burger22\include\menuprincipal.h
+
+1682948550 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\src\menuprincipal.cpp
+	"menuPrincipal.h"
+	<iostream>
+
+1682948405 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\menuprincipal.h
+
+1685228869 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+	"Programa.h"
+	"InfoEmpresa.h"
+
+1684966215 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\fecha.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1684965926 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\fecha.h
+	<ctime>
+	<string>
+
+1683842861 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\tarea.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Tarea.h"
+
+1683848871 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\tarea.h
+	"Tarea.h"
+	"Fecha.h"
+	<string>
+
+1683842861 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\tareaarchivo.cpp
+	"TareaArchivo.h"
+	<cstdio>
+
+1683842861 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\tareaarchivo.h
+	"Tarea.h"
+	<string>
+
+1684279097 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\menuprincipal.cpp
+	"menuPrincipal.h"
+	"ProductoMenu.h"
+	"ProductoManager.h"
+	"programa.h"
+	<iostream>
+
+1687527736 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\producto.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Producto.h"
+	"funciones.h"
+
+1687528103 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\producto.h
+	"Producto.h"
+	"Fecha.h"
+	<string>
+
+1687494484 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	"funciones.h"
+	<cstdio>
+
+1684561081 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\productoarchivo.h
+	"Producto.h"
+	<string>
+
+1687528570 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\productomenu.cpp
+	<iostream>
+	"ProductoMenu.h"
+	"funciones.h"
+
+1683860287 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\productomenu.h
+	"ProductoManager.h"
+
+1683859809 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\productomanager.h
+	"Producto.h"
+	"ProductoArchivo.h"
+
+1687526485 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"funciones.h"
+	"ProductoArchivo.h"
+	<iomanip>
+	"funciones.h"
+
+1687525744 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\funciones.h
+	<string>
+	"Fecha.h"
+
+1687492304 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\programa.cpp
+	<iostream>
+	<cstdlib>
+	"Programa.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"InfoEmpresa.h"
+	"HerramientaInflacion.h"
+	"informes.h"
+	"funciones.h"
+
+1684277176 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\programa.h
+	"ProductoMenu.h"
+
+1687525744 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\funciones.cpp
+	"funciones.h"
+	<climits>
+	<iostream>
+
+1684357728 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\infoempresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"InfoEmpresa.h"
+	"Clientes.h"
+
+1684357705 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\infoempresa.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1687493721 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\clientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Clientes.h"
+	"Fecha.h"
+	<string>
+	"funciones.h"
+
+1687471283 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\clientes.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1687494484 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\pedidos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Pedidos.h"
+	"Fecha.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Detalle.h"
+	"funciones.h"
+	<ctime>
+
+1687456005 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\pedidos.h
+	"Fecha.h"
+	"Clientes.h"
+	"Producto.h"
+	"Detalle.h"
+
+1687494120 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\herramientainflacion.cpp
+	<iostream>
+	"ProductoManager.h"
+	"funciones.h"
+	"ProductoArchivo.h"
+	"Producto.h"
+	"ProductoMenu.h"
+	"HerramientaInflacion.h"
+	"Fecha.h"
+
+1684964429 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\herramientainflacion.h
+	"Producto.h"
+	"ProductoArchivo.h"
+	"Fecha.h"
+	<cstring>
+
+1687493721 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\detalle.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Pedidos.h"
+	"Fecha.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Detalle.h"
+	"funciones.h"
+	<ctime>
+
+1686870740 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\detalle.h
+	"Fecha.h"
+	"Clientes.h"
+	"Producto.h"
+
+1686876666 c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\informes.h
+	"Fecha.h"
+	"Clientes.h"
+	"Producto.h"
+	"Detalle.h"
+
+1687494484 source:c:\users\manu\desktop\utn programacion\segundo cuatri\burger22\burger22\include\src\informes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Pedidos.h"
+	"Fecha.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Detalle.h"
+	"informes.h"
+	"funciones.h"
+
+1687493721 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\clientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Clientes.h"
+	"Fecha.h"
+	<string>
+	"funciones.h"
+
+1687471283 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\clientes.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1684965926 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\fecha.h
+	<ctime>
+	<string>
+
+1687525744 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\funciones.h
+	<string>
+	"Fecha.h"
+
+1687493721 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\detalle.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Pedidos.h"
+	"Fecha.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Detalle.h"
+	"funciones.h"
+	<ctime>
+
+1687456005 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\pedidos.h
+	"Fecha.h"
+	"Clientes.h"
+	"Producto.h"
+	"Detalle.h"
+
+1687528103 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\producto.h
+	"Producto.h"
+	"Fecha.h"
+	<string>
+
+1686870740 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\detalle.h
+	"Fecha.h"
+	"Clientes.h"
+	"Producto.h"
+
+1684561081 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\productoarchivo.h
+	"Producto.h"
+	<string>
+
+1683859809 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\productomanager.h
+	"Producto.h"
+	"ProductoArchivo.h"
+
+1684966215 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\fecha.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1687525744 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\funciones.cpp
+	"funciones.h"
+	<climits>
+	<iostream>
+
+1687494120 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\herramientainflacion.cpp
+	<iostream>
+	"ProductoManager.h"
+	"funciones.h"
+	"ProductoArchivo.h"
+	"Producto.h"
+	"ProductoMenu.h"
+	"HerramientaInflacion.h"
+	"Fecha.h"
+
+1683860287 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\productomenu.h
+	"ProductoManager.h"
+
+1684964429 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\herramientainflacion.h
+	"Producto.h"
+	"ProductoArchivo.h"
+	"Fecha.h"
+	<cstring>
+
+1684357728 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\infoempresa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"InfoEmpresa.h"
+	"Clientes.h"
+
+1684357705 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\infoempresa.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1687494484 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\informes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Pedidos.h"
+	"Fecha.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Detalle.h"
+	"informes.h"
+	"funciones.h"
+
+1686876666 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\informes.h
+	"Fecha.h"
+	"Clientes.h"
+	"Producto.h"
+	"Detalle.h"
+
+1684279097 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\menuprincipal.cpp
+	"menuPrincipal.h"
+	"ProductoMenu.h"
+	"ProductoManager.h"
+	"programa.h"
+	<iostream>
+
+1682948405 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\menuprincipal.h
+
+1684277176 c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\programa.h
+	"ProductoMenu.h"
+
+1687494484 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\pedidos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Pedidos.h"
+	"Fecha.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Detalle.h"
+	"funciones.h"
+	<ctime>
+
+1687527736 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\producto.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Producto.h"
+	"funciones.h"
+
+1687494484 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	"funciones.h"
+	<cstdio>
+
+1687526485 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"funciones.h"
+	"ProductoArchivo.h"
+	<iomanip>
+	"funciones.h"
+
+1687528570 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\productomenu.cpp
+	<iostream>
+	"ProductoMenu.h"
+	"funciones.h"
+
+1687492304 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\include\src\programa.cpp
+	<iostream>
+	<cstdlib>
+	"Programa.h"
+	"Clientes.h"
+	"Pedidos.h"
+	"InfoEmpresa.h"
+	"HerramientaInflacion.h"
+	"informes.h"
+	"funciones.h"
+
+1685228869 source:c:\users\ariti\downloads\burger22ultimoesfuerzo1\burger22\main.cpp
+	<iostream>
+	"menuPrincipal.h"
+	"Programa.h"
+	"InfoEmpresa.h"
+

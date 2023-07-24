@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Burger22" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Burger22" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Burger22" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Clientes.h" />
+		<Unit filename="include/Detalle.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/HerramientaInflacion.h" />
+		<Unit filename="include/InfoEmpresa.h" />
+		<Unit filename="include/Pedidos.h" />
+		<Unit filename="include/Producto.h" />
+		<Unit filename="include/ProductoArchivo.h" />
+		<Unit filename="include/ProductoManager.h" />
+		<Unit filename="include/ProductoMenu.h" />
+		<Unit filename="include/Programa.h" />
+		<Unit filename="include/funciones.h" />
+		<Unit filename="include/informes.h" />
+		<Unit filename="include/menuPrincipal.h" />
+		<Unit filename="include/src/Clientes.cpp" />
+		<Unit filename="include/src/Detalle.cpp" />
+		<Unit filename="include/src/Fecha.cpp" />
+		<Unit filename="include/src/HerramientaInflacion.cpp" />
+		<Unit filename="include/src/InfoEmpresa.cpp" />
+		<Unit filename="include/src/Pedidos.cpp" />
+		<Unit filename="include/src/Producto.cpp" />
+		<Unit filename="include/src/ProductoArchivo.cpp" />
+		<Unit filename="include/src/ProductoManager.cpp" />
+		<Unit filename="include/src/ProductoMenu.cpp" />
+		<Unit filename="include/src/Programa.cpp" />
+		<Unit filename="include/src/funciones.cpp" />
+		<Unit filename="include/src/informes.cpp" />
+		<Unit filename="include/src/menuPrincipal.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
